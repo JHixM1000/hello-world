@@ -1,3 +1,3 @@
 # hello-world
 first time here!
-chenged from boy to man
+changed from boy to man
